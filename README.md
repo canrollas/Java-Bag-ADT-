@@ -27,3 +27,9 @@
 ```java
 ArrayBag<String> rollas=new ArrayBag<>();
 ```
+
+## Licence & copyright
+
+© Can Rollas , Java Bag ADT
+
+Lİcensed under the [Apache License](LICENSE).
